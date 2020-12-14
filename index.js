@@ -44,5 +44,7 @@ const kat = new Cat(Kat,female);
 const max = new Dog(Max,male);
 const silv = new Bird(silv ,female);
 kat.speak();
+max.speak();
+silv.speak();
 
 
